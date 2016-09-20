@@ -1,0 +1,5 @@
+name: LocalDB
+version: 1.0.1
+main: com.zp4rker.ldb.LocalDB
+author: ZP4RKER
+description: Allows plugins to use local SQLite databases.

@@ -1,4 +1,4 @@
-package com.zp4rker.ldb.db;
+package com.zp4rker.localdb.db;
 
 import org.bukkit.plugin.java.JavaPlugin;
 

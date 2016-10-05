@@ -1,4 +1,4 @@
-package com.zp4rker.ldb;
+package com.zp4rker.localdb;
 
 public enum DataType {
 

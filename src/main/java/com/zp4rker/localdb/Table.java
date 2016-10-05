@@ -1,6 +1,4 @@
-package com.zp4rker.ldb;
-
-import com.zp4rker.ldb.db.SQLite;
+package com.zp4rker.localdb;
 
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
@@ -8,6 +6,8 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.List;
+
+import com.zp4rker.localdb.db.SQLite;
 
 public class Table {
 

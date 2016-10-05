@@ -1,7 +1,8 @@
-package com.zp4rker.ldb;
+package com.zp4rker.localdb;
 
-import com.zp4rker.ldb.db.SQLite;
 import org.bukkit.plugin.java.JavaPlugin;
+
+import com.zp4rker.localdb.db.SQLite;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

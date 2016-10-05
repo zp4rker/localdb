@@ -1,4 +1,4 @@
-package com.zp4rker.ldb.db;
+package com.zp4rker.localdb.db;
 
 public class Errors {
     public static String sqlConnectionExecute(){

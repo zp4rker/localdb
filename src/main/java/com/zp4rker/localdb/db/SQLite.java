@@ -1,7 +1,8 @@
-package com.zp4rker.ldb.db;
+package com.zp4rker.localdb.db;
 
-import com.zp4rker.ldb.Database;
 import org.bukkit.plugin.java.JavaPlugin;
+
+import com.zp4rker.localdb.Database;
 
 import java.io.File;
 import java.io.IOException;

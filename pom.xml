@@ -7,6 +7,7 @@
     <groupId>com.zp4rker</groupId>
     <artifactId>localdb</artifactId>
     <version>1.0</version>
+    <name>LocalDB</name>
 
     <repositories>
         <repository>

@@ -16,6 +16,7 @@ public class Column {
     public Column(String name, DataType dataType) {
         this.name = name;
         this.dataType = dataType;
+        this.limit = 0;
     }
 
     public String getName() {

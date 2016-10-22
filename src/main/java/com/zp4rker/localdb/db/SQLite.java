@@ -88,5 +88,18 @@ public class SQLite {
             Error.close(plugin, ex);
         }
     }
+    
+    public void closeConnection() {
+    	try {
+    		if (!(connection.isClosed())) {
+        		connection.close();
+        		connection = null;
+        	} else {
+        		connection = null;
+        	}
+    	} catch(Exception e) {
+    		Error.close(plugin, e);
+    	}
+    }
 
 }
